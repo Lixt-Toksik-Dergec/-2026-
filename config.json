@@ -1,0 +1,7 @@
+{
+  "db_url": "sqlite:///./logs_analyzer.db",
+  "log_dir": "./logs",
+  "log_file_mask": "*.log",
+  "server_host": "127.0.0.1",
+"server_port": 8080
+}
